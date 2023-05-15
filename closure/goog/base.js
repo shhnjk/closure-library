@@ -230,7 +230,7 @@ goog.FEATURESET_YEAR = goog.define('goog.FEATURESET_YEAR', 2012);
  * purposes and it is difficult for the JSCompiler to statically determine
  * whether they are used.
  */
-goog.DEBUG = goog.define('goog.DEBUG', true);
+goog.DEBUG = goog.define('goog.DEBUG', false);
 
 
 /**
